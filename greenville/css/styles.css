@@ -1,0 +1,180 @@
+@charset "utf-8";
+/* CSS Document */
+
+#section {
+	width: 942px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -10px;
+}
+
+#logocenter {
+	display:block;
+}
+
+#logocentermobile {
+	display: none;
+}
+
+#arrow {
+	margin-top: 75px;
+	position:absolute;
+	margin-left:10px;
+	z-index: 1;
+}
+
+#callbtn {
+	margin-top: 35px;
+	position:absolute;
+	margin-left:685px;
+	z-index: 1;
+}
+
+#callbtntext {
+	margin-top: 55px;
+	position:absolute;
+	margin-left:695px;
+	width:200px;
+	z-index: 1;
+	font-family: 'Open Sans', arial, sans-serif;
+	color: #2a3b92;
+	font-size: 18px;
+	text-align:center;
+	z-index: 3;
+}
+
+#callbtnmobile {
+	display: none;
+}
+
+#callbtntextmobile {
+	display: none;
+}
+
+.plumberstock {
+	position: relative;
+	z-index: 2;
+}
+
+.plumberstockmobile {
+	display:none;
+}
+
+#grayborder {
+	margin-top: -3px;
+}
+
+.titlefirst {
+	font-family: 'Open Sans', arial, sans-serif;
+	color: #2a3b92;
+	font-size: 18px;
+}
+
+.maintitle {
+	font-family: 'Open Sans', arial, sans-serif;
+	color: #2a3b92;
+	font-size: 30px;
+	font-weight:bold;
+}
+
+.maintitleorange {
+	font-family: 'Open Sans', arial, sans-serif;
+	color: #f78f29;
+	font-size: 30px;
+	font-weight:bold;
+}
+
+.titlesecond {
+	font-family: 'Open Sans', arial, sans-serif;
+	color: #2a3b92;
+	font-size: 16px;
+}
+
+
+.content {
+	font-family: 'Open Sans', arial, sans-serif;
+	color: #2a3b92;
+	font-size: 13px;
+}
+
+#contentpadding {
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+ul {
+	font-family: 'Open Sans', arial, sans-serif;
+	color: #2a3b92;
+	font-size: 13px;
+	margin-left: -25px;
+	padding-right: 20px;
+}
+
+.footer {
+	font-family: 'Open Sans', arial, sans-serif;
+	color: #2a3b92;
+	font-size: 13px;
+	text-decoration:none;
+}
+	
+/* unvisited link */
+a:link {
+    color: #2a3b92;
+	text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+    color: #2a3b92;
+	text-decoration:none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #2a3b92;
+	text-decoration:none;
+}
+
+/* selected link */
+a:active {
+     color: #2a3b92;
+	 text-decoration:none;
+}
+
+#listhidedesktop {
+	display:none;
+}
+
+#listhidedesktopservices {
+	display: none;
+}
+
+#listhidemobile {
+	display:block;
+	margin-top: -20px;
+}
+
+#listhidemobile2 {
+	display:block;
+}
+
+#listtablebgcolor {
+	display:block;
+}
+
+
+#tdmobile {
+	display: inline;
+}
+
+#graybordermobile {
+	background-color:#e1e2e3;
+}
+
+#plumbermobile {
+	display: none;
+}
+
+}
